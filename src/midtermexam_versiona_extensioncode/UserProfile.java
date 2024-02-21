@@ -15,6 +15,9 @@ package midtermexam_versiona_extensioncode;
  */
 public class UserProfile 
 {
+    //    My name is Parv Patel. I am from Gujarat, India.
+    //    I am giving my FSD exam
+    //    I am enrolled in Computer Programming course.
     
     private String userID;//the userID
     private String genre;// the user's preferred genre of movie
